@@ -1,4 +1,4 @@
-package cr.ac.itcr.fragmentsexample;//package net.sgoliver.android.fragments;
+package cr.ac.itcr.fragmentsexample;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
